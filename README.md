@@ -10,6 +10,8 @@ Joy-Cardio is a python based app the converts your Nintendo Switch Joy-Cons into
 ## Download Joy-Cardio
 Download Joy-Cardio on the Releases tab or through this [GitHub link](https://github.com/SuperLouis64/Joy-Cardio/releases/download/v0.1/JoyCardio.exe)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X31U5E8)
+
 ## How to set-up Joy-Cardio
 Full a more in-depth tutorial visit Controller Bending's [Tutorial page](https://controllerbending.com/joy-cardio-pc-tutorial/) 
 1. Download Joy-Cardio
