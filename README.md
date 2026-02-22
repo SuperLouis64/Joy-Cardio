@@ -1,5 +1,5 @@
 # Joy-Cardio Ver 0.1
-Play PC games by literally exercising made by [SuperLouis64]([https://www.youtube.com/@SuperLouis64](https://bsky.app/profile/superlouis64.bsky.social))
+Play PC games by literally exercising made by [SuperLouis64](https://bsky.app/profile/superlouis64.bsky.social)
 
 ## What is Joy-Cardio
 Joy-Cardio is a python based app the converts your Nintendo Switch Joy-Cons into exercise controllers. With Joy-Cardio you can use an exercise bike or treadmill combine with your Joy-Cons to move in-game. While on an exercise bike whenever you pedal abover a certain pace the app presses the "W" key. Same results happens when you walk on a treadmill. Mostly for fun and chill games like Mario Kart however you can combine this with an Xbox controller and beat Elden Ring by literally exercising if you really want to. The only items you'll need to use Joy-Cardio are
@@ -25,6 +25,26 @@ Full a more in-depth tutorial visit Controller Bending's [Tutorial page](https:/
 When in the Bike mode, the app will be looking for pedalling motions. Pedal to activate the "W" key press.
 ### Treadmill mode
 When in Treadmill mode, the app will be looking for the walking motion. Walk on the treadmill or around your room to activate the "W" key press.
+### Current Controls
+This can be changed in the source code however will be changeable in app in a future update
+| Left Joy-Con (Leg strap) Input    | Output |
+| ----------- | ----------- |
+| Exercise Motion     | W key |
+| Joy-Stick Left   | Right Arrow key  |
+| Joy-Stick Right   | Reft Arrow key  |
+| Joy-Stick Down  | Down Arrow key  |
+| Joy-Stick Up   | Up Arrow key  |
+
+| Right Joy-Con (Hand) Input    | Output |
+| ----------- | ----------- |
+| Joy-Stick Left   | A Key |
+| Joy-Stick Right   | D Key |
+| Joy-Stick Down  | S Key  |
+| Joy-Stick Up   | N/A  |
+| X button | Page up  |
+| A button  | Num 0  |
+| B button  | Escape  |
+| Y button | Page down |
 
 ## FAQ
 1. **Does this work with Mac or Linux?**
@@ -35,3 +55,4 @@ Yes, but it's complicated. You'll need a converter to transfer your inputs from 
 No*. I don't have 3rd party Joy-Cons so I can't test that right now
 4. **The app opens but does not work what's up?**
 Sometimes it hangs trying to find both Joy-Cons. Make sure they are connected to your PC before launching the app and if you're having issues close and relaunch the program.
+5. **My Joy-Cons aren't responding mid-gameplay** If the Joy-con doesn't get any inputs after a certain amount of time it will just timeout and disconnect from the program. Just reconnect them to your PC or restart the app
