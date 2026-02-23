@@ -13,7 +13,7 @@ Download Joy-Cardio on the Releases tab or through this [GitHub link](https://gi
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X31U5E8)
 
 ## How to set-up Joy-Cardio
-Full a more in-depth tutorial visit Controller Bending's [Tutorial page](https://controllerbending.com/joy-cardio-pc-tutorial/) 
+Full a more in-depth tutorial visit Controller Bending's [Tutorial page](https://controllerbending.com/joy-cardio-pc-tutorial/) or watch the [YouTube Video](https://youtu.be/HcXQlx77Lz4)
 1. Download Joy-Cardio
 2. Connect your Joy-Cons to your PC via the Bluetooth and Devices menu
 3. Attach the Left Joy-con to your Joy-con Leg strap
